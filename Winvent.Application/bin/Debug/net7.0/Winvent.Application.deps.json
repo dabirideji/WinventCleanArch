@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Winvent.Application/1.0.0": {
+        "dependencies": {
+          "Winvent.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Winvent.Application.dll": {}
+        }
+      },
+      "Winvent.Domain/1.0.0": {
+        "runtime": {
+          "Winvent.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winvent.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Winvent.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
