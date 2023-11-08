@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Winvent.Domain
-build_property.ProjectDir = C:\xampp\htdocs\COURSES\.NET\Winvent\Winvent.Domain\
+build_property.ProjectDir = C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\

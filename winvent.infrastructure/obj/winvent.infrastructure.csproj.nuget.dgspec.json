@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.infrastructure\\winvent.infrastructure.csproj": {}
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.infrastructure\\winvent.infrastructure.csproj": {
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.infrastructure\\winvent.infrastructure.csproj",
-        "projectName": "winvent.infrastructure",
-        "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.infrastructure\\winvent.infrastructure.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj",
+        "projectName": "Winvent.Infrastructure",
+        "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.infrastructure\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,12 +43,6 @@
               "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.13, )"
             },

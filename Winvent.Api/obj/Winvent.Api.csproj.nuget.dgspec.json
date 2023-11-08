@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.api\\Winvent.Api.csproj": {}
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Api\\Winvent.Api.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.api\\Winvent.Api.csproj": {
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Api\\Winvent.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.api\\Winvent.Api.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Api\\Winvent.Api.csproj",
         "projectName": "Winvent.Api",
-        "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.api\\Winvent.Api.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Api\\Winvent.Api.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.api\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj"
+              "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\Winvent.Application.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\Winvent.Application.csproj"
               },
-              "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj"
+              "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj"
               },
-              "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj"
+              "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj": {
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\Winvent.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\Winvent.Application.csproj",
         "projectName": "Winvent.Application",
-        "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\Winvent.Application.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,8 +122,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj"
+              "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj": {
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj",
         "projectName": "Winvent.Domain",
-        "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj": {
+    "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj",
         "projectName": "Winvent.Infrastructure",
-        "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\Winvent.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Infrastructure\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -231,14 +231,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj"
-              },
-              "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -251,37 +244,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Microsoft.EntityFrameWorkCore": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.13, )"
             },
-            "Microsoft.EntityFrameWorkCore.Design": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.13, )"
             },
-            "Microsoft.EntityFrameWorkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.13, )"
             },
-            "Microsoft.EntityFrameWorkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.13, )"
             },
-            "Microsoft.EntityFrameWorkCore.Tools": {
+            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.13, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -296,9 +281,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

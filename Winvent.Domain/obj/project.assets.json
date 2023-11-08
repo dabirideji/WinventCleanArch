@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj",
       "projectName": "Winvent.Domain",
-      "projectPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\Winvent.Domain.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\Winvent.Domain.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Domain\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

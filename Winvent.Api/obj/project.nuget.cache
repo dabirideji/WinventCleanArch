@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsRwhyloQh4YMA5ImlsaCfV281JsvfQbtZfab2mLaYIncCqDcqZSmqBY4sIOr15wjvVSRUbHz4T0r+97pNdqaw==",
+  "dgSpecHash": "DW66k+YlsXFg0xZzmDPSczuUc97rvQmD1XwUQDl1vVYLnUd2ottw+mQ5U2lqACZQXSLHV2oRcqDJSb1rMFi7ZA==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\winvent.api\\Winvent.Api.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Api\\Winvent.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

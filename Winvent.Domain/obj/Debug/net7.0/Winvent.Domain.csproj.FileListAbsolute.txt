@@ -9,3 +9,14 @@ C:\xampp\htdocs\COURSES\.NET\Winvent\Winvent.Domain\obj\Debug\net7.0\Winvent.Dom
 C:\xampp\htdocs\COURSES\.NET\Winvent\Winvent.Domain\obj\Debug\net7.0\refint\Winvent.Domain.dll
 C:\xampp\htdocs\COURSES\.NET\Winvent\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.pdb
 C:\xampp\htdocs\COURSES\.NET\Winvent\Winvent.Domain\obj\Debug\net7.0\ref\Winvent.Domain.dll
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\bin\Debug\net7.0\Winvent.Domain.deps.json
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\bin\Debug\net7.0\Winvent.Domain.dll
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\bin\Debug\net7.0\Winvent.Domain.pdb
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.AssemblyInfo.cs
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.dll
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\refint\Winvent.Domain.dll
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\Winvent.Domain.pdb
+C:\xampp\htdocs\COURSES\Repos\WinventCleanArch\Winvent.Domain\obj\Debug\net7.0\ref\Winvent.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEZW4N9dZ/SMYx0nzWW3fG12mGvJ0D2qQxvbBNN6ANBJXmoiZ9BEsSAR3WH5UNrw8T4PcYvflG9A07QM0tIVcw==",
+  "dgSpecHash": "3E2EDcXAUh+W+qKYn1r3XClEHW13kYVJAA8HvcFXRQFeqqM7iVLPAWlqLAXKi2QMdbrwKz36wjMttDMEIr4GWA==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\COURSES\\.NET\\Winvent\\Winvent.Application\\Winvent.Application.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\COURSES\\Repos\\WinventCleanArch\\Winvent.Application\\Winvent.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
